@@ -15,7 +15,6 @@ CLOUDINARY_API_SECRET='your api secret'
 - React Server Form Actions
 - SQL
 - Cloudinary
--
 
 ## Todos
 - [ ] Delete inline styles that were just assigned for demo purposes.
