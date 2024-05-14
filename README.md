@@ -9,6 +9,12 @@ CLOUDINARY_API_KEY='your api key'
 CLOUDINARY_API_SECRET='your api secret'
 ```
 
+### Installation
+Run `npm install` within the root directory.
+
+### Run Development Mode
+Execute `npm run dev` within the root directory and open up `http://localhost:3000`.
+
 ## Used technologies
 - React.js
 - Next.js
